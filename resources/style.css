@@ -5,28 +5,35 @@ body {
 
 }
 
+/* HEADINGS */
+
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-.link-cta {
-    color: aquamarine;
-    font-size: 16px;
-}
-
-.header--guide{
+.header--secondary{
     font-weight: 300px;
     font-size: 42px;
     color: white;
 }
 
-.places {
+.header--sub {
     font-size: 21px;
     color: gray;
 }
 
+/* LINKS */
+
+
+.link-cta {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+
+/* FOOTER */
 footer {
     text-align: right;
     color: gray;
